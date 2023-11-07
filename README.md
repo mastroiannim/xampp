@@ -1,6 +1,7 @@
 # xampp
 
 Create this directories structure:
+```
 .
 ├── docker-compose.yml
 ├── Dockerfile
@@ -9,3 +10,4 @@ Create this directories structure:
 ├── sessions
 └── www
     └── index.php
+```
